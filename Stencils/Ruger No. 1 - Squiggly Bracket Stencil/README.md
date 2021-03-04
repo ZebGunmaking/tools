@@ -1,5 +1,7 @@
 # Ruger No. 1 - Squiggly Bracket Stencil
-This is a stencil for drawing squiqqly brackets on a Ruger No. 1 action.
+
+This is a 3D printable stencil for drawing squiqqly brackets on a Ruger No. 1 action. 
+> [View/Download .STL File](https://github.com/ZebGunmaking/tools/blob/main/Stencils/Ruger%20No.%201%20-%20Squiggly%20Bracket%20Stencil/Ruger%20No.%201%20-%20Squiggly%20Bracket%20Stencil.stl)
 
 ## Some guidance (images only right now)
 <img src="https://user-images.githubusercontent.com/79891400/110045654-3c4fb880-7d08-11eb-82a1-27b007ec4cb8.png" alt="2" width="500px" height="500px">
