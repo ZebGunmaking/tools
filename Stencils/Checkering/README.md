@@ -8,4 +8,4 @@ Currently only 12 LPI is uploaded, which can be used to draw out patterns for 24
   * [12 LPI (3:1)](https://github.com/ZebGunmaking/tools/raw/main/Stencils/Checkering/12x3.pdf)
   * [12 LPI (3.5:1)](https://github.com/ZebGunmaking/tools/raw/main/Stencils/Checkering/12x35.pdf)
 
-At the bottom right of each page you will see a description of the current stencil, just print out what you need. Source files are included in this directory, so if you want to remove the branding have at it.
+At the bottom right of each page you will see a description of the current stencil. Source files are included in this directory, so if you want to remove the branding have at it.
