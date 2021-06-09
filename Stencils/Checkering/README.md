@@ -1,6 +1,8 @@
 ## Checkering Stencils
 Printable paper stencils for creating checkering patterns at specific Lines-Per-Inch (LPI) and Diamond Height-To-Width Ratios (2.5, 3, and 3.5).
 
+![paperusage](https://user-images.githubusercontent.com/79891400/121417465-2a913900-c927-11eb-8eca-bf897526b600.PNG)
+
 
 * 12 LPI (Used for 24 LPI checkering)
   * [12 LPI (2.5:1)](https://github.com/ZebGunmaking/tools/raw/main/Stencils/Checkering/12x25.pdf)
